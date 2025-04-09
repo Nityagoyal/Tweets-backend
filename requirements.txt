@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+nltk
+geopy
+folium
+python-multipart
